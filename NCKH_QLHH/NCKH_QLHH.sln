@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCKH_QLHH", "NCKH_QLHH.csproj", "{0A5BD578-4BC7-4C86-B788-70D5B29F64D8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuanLiHangHoa_Dat", "..\QuanLiHangHoa_Dat\QuanLiHangHoa_Dat.vdproj", "{822901E3-E778-42D2-88D7-23EDE7F1E7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5BD578-4BC7-4C86-B788-70D5B29F64D8}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5BD578-4BC7-4C86-B788-70D5B29F64D8}.All|Any CPU.Build.0 = Release|Any CPU
+		{0A5BD578-4BC7-4C86-B788-70D5B29F64D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5BD578-4BC7-4C86-B788-70D5B29F64D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5BD578-4BC7-4C86-B788-70D5B29F64D8}.Release|Any CPU.ActiveCfg = Release|x64
+		{0A5BD578-4BC7-4C86-B788-70D5B29F64D8}.Release|Any CPU.Build.0 = Release|x64
+		{822901E3-E778-42D2-88D7-23EDE7F1E7DF}.All|Any CPU.ActiveCfg = Debug
+		{822901E3-E778-42D2-88D7-23EDE7F1E7DF}.All|Any CPU.Build.0 = Debug
+		{822901E3-E778-42D2-88D7-23EDE7F1E7DF}.Debug|Any CPU.ActiveCfg = Debug
+		{822901E3-E778-42D2-88D7-23EDE7F1E7DF}.Debug|Any CPU.Build.0 = Debug
+		{822901E3-E778-42D2-88D7-23EDE7F1E7DF}.Release|Any CPU.ActiveCfg = Release
+		{822901E3-E778-42D2-88D7-23EDE7F1E7DF}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3506AB58-9FC5-4D78-A70B-2680B1612B61}
+	EndGlobalSection
+EndGlobal

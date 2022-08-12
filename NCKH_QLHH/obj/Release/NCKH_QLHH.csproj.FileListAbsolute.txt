@@ -1,0 +1,16 @@
+D:\NCKH\NCKH_QLHH\bin\Release\NCKH_QLHH.exe.config
+D:\NCKH\NCKH_QLHH\bin\Release\NCKH_QLHH.exe
+D:\NCKH\NCKH_QLHH\bin\Release\NCKH_QLHH.pdb
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.form.AboutUs.resources
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.Form1.resources
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.QuanLi.resources
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.form.Quanli2.resources
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.Sua.resources
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.Them.resources
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.Xoa.resources
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.Properties.Resources.resources
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.csproj.GenerateResource.cache
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.csproj.CoreCompileInputs.cache
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.exe
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.pdb
+D:\NCKH\NCKH_QLHH\obj\Release\NCKH_QLHH.form.Inventory.resources
